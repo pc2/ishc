@@ -1,9 +1,12 @@
 # ISHC (Insert Syntax Highlighted Code)
 
+<p align="center">
+<img src="https://media.giphy.com/media/hSG564AsVKwKpjrAme/giphy.gif">
+</p>
+
 ## Description
 
-A simple script to insert pre-copied source code (syntax highlighted) into a PowerPoint presentation using the tool **highlight** with easy abbreviations.
-
+A simple script to insert pre-copied source code (syntax highlighted) into a PowerPoint presentation using the tool **highlight** and **TextExpander** with easy abbreviations.
 
 ## Supported languages for highlight
 
